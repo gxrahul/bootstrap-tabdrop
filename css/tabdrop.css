@@ -21,8 +21,3 @@
 .nav-tabs li li i{
   visibility: hidden;
 }
-
-/* always show to the left */
-.open > .dropdown-menu {
-  left: -100px;
-}
