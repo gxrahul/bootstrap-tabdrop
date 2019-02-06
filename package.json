@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "Bootstrap tabdrop is a responsive tab navigation for bootstrap",
   "main": "js/bootstrap-tabdrop.js",
+  "style": "css/tabdrop.css",
   "repository": {
     "type": "git",
     "url": "https://github.com/gxrahul/bootstrap-tabdrop"
